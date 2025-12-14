@@ -20,23 +20,23 @@ https://laflazan.github.io/Kurabiye/
 
 🛠️ Kullanılan Teknolojiler
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-Vanilla JavaScript
+- Vanilla JavaScript
 
-GitHub Pages
+- GitHub Pages
 
-🚀 Nasıl Çalışır?
+   🚀 Nasıl Çalışır?
 
-Sayfayı aç
+1 = Sayfayı aç
 
-Üç kurabiyeden birini seç
+2 = Üç kurabiyeden birini seç
 
-Kurabiye açılır ve mesaj gösterilir
+3 = Kurabiye açılır ve mesaj gösterilir
 
-“Yeniden seç” ile tekrar dene
+4 = “Yeniden seç” ile tekrar dene
 
 📁 Proje Yapısı
 Kurabiye/
